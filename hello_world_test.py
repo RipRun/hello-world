@@ -29,7 +29,7 @@ def main():
         print("average")
     take_average()
     z = "stop"
-    if z == "stop":
+    if z == "stop it":
         print("ok")
 
 
